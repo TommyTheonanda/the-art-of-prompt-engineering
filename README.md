@@ -7,7 +7,7 @@
 <br>
 
 
-## I Have Completed the Lessons 😄😄
+# I Have Completed the Lessons 😄😄
 <br>
 
 # Hi, It's Tommy! 😎👋
@@ -29,10 +29,12 @@
 
 <br>
 
-# 📫 Find Me 
+## 📫 Find Me
 📞 0821-6990-0825 (Indonesia)
 
 📧 theonanda.tom@gmail.com
+
+
 
 
 
